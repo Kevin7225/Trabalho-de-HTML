@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-br"> <!-- Mostra qual é o idioma da página -->
+
+<head> <!-- Cabeçalho da página -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tudo sobre a escoliose</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #559AE8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+  .container {
+    background-color: #F3F6FA;
+    padding: 60px;
+    width: 100%;
+    height: 90%;
+    border-radius: 8px;
+    box-shadow: 6px 3px 8px rgba(0, 0, 0, 0.2);
+    text-align: left;
+    overflow: auto;
+    max-width: 500px;
+    border-radius: 16px 16px 16px 16px;
+  }
+
+  h1 {
+    color: #d9534f;
+  }
+
+  img {
+    width: 95%;
+    height: auto%;
+    margin: 15px 0;
+    border-radius: 8px;
+  }
+
+  button {
+    background-color: #0275d8;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 15px;
+  }
+
+  button:hover {
+    background-color: #25aa5;
+  }
+</style>
+<!-- Style define o estilo da página -->
+
+<body> <!-- Corpo da página -->
+  <div class="container"> <!-- Div define uma divisão na página -->
+    <h2>Você sabe o que é a escoliose?</h2> <!-- Título -->
+    <p1>  <!-- Um parágrafo -->
+      A escoliose é um encurtamento da coluna causado por uma curvatura lateral.Normalmente,a coluna vertebral é reta e alinhada.Quando o paciente tem escoliose à coluna acaba fazendo uma curva para um dos lados,em forma de “C” ou “S” que pode causar problemas ao mesmo.Existe diferentes tipos de escoliose algumas delas são: </p1>
+    <ul> <!-- Lista não ordenada -->
+      <li>Escoliose Torácica — quando a curvatura localiza-se na parte média da coluna.</li> <!-- li é uma lista -->
+      <li>Escoliose Lombar — quando a curvatura se localiza na parte inferior da coluna.</li>
+      <li>Escoliose Toracolombar — quando vai desde a parte inferior à superior. </li>
+      <li>Escoliose Combinada — apresenta 2 ou 3 curvaturas, em cada região da coluna.</li>
+      <li>Escoliose Neuromuscular — Este tipo de escoliose ocorre na presença de outros distúrbios que podem enfraquecer
+        os músculos, dificultando o funcionamento adequado dos músculos das costas. Neste caso, a curvatura costuma ser
+        longa e grave, formando um C.</li>
+    </ul>
+    <img
+      src="https://quirosalus-quiropraxia.com.br/wp-content/uploads/2022/07/o-que-e%CC%81-escoliose-e-seus-tipos-de-escoliose-na-coluna-vertebral-por-regia%CC%83o.png"
+      alt="Tipos de Escoliose" width="300px" height="200px"> <!-- Imagem -->
+    <h2>O que causa a escoliose?</h2>
+    <p2> <!-- segundo parágrafo -->
+      A causa pode estar relacionada a: 
+      <ul>
+        <li>Histórico familiar: presença de escoliose em membros da família.</li>
+        <li>Má formação congênita: problemas de desenvolvimento das vértebras durante a gestação.</li>
+        <li>Lesões na coluna: fraturas ou condições como osteoporose.</li>
+        <li>Condições neurológicas: doenças como paralisia cerebral e ataxia (dificuldade ou incapacidade de manter a
+          coordenação motora).</li>
+        <li>Desequilíbrio muscular: problemas que afetam a força e simetria dos músculos.</li>
+        <li>Tumores: presença de tumores na coluna vertebral. </li>
+        Contudo, algo entre 65% e 80% dos casos de escoliose têm causa desconhecida. Essa é a escoliose idiopática, a
+        mais comum.
+      </ul>
+    </p2>
+    <h2>Como é feito o diagnóstico? </h2>
+    <p3> <!-- Terceiro parágrafo -->
+      O diagnóstico precoce da escoliose é crucial para um tratamento eficaz, e inclui: História clínica: o
+      especialista faz perguntas sobre a história do paciente, incluindo histórico familiar de escoliose,
+      desenvolvimento durante a infância e adolescência, e presença de sintomas como dor nas costas ou alterações na postura. Exame físico: a coluna vertebral do paciente é examinada em várias posições. Pode ser realizado um exame físico conhecido como Teste de Adams, em que o paciente se inclina para frente, movimento que permite ao especialista identificar irregularidades no contorno vertebral e avaliar a presença de escoliose.  Por meio dessas análises, o profissional observa assimetrias, inclinações laterais, desalinhamentos ou rotações.
+    </p3>
+    <h2>Quais são os sintomas da escoliose?</h2>
+    <p4> <!-- Quarto parágrafo --> 
+      Os sintomas de escoliose variam e nos casos leves às vezes não há nenhum sintoma perceptível, mas alguns dos
+      
+      <ul>
+        <li>Desigualdade na altura dos ombros, em que um ombro pode parecer mais alto que o outro.</li>
+        <li>Inclinação do corpo para um dos lados. </li>
+        <li>Escápulas desalinhadas, ou seja, quando os ombros estão fora da posição correta.</li>
+        <li>Um lado do quadril mais alto que o outro.</li>
+        <li>Uma perna parece mais curta que a outra.</li>
+        <li>Dificuldade para se manter ereto.</li>
+        <li>Fraqueza ou dor muscular, cuja intensidade pode variar.</li>
+        <li>Sensação de fadiga nas costas, especialmente após longos períodos em pé ou sentado.</li>
+      </ul>
+      Nos casos mais graves, a curvatura severa da coluna pode comprometer a capacidade dos pulmões de se expandir
+      adequadamente, resultando em dificuldades respiratórias.
+    </p4>
+    <img src="https://vitaclinica.com.br/wp-content/uploads/2017/06/escoliose-2.jpg" alt="Sintomas da escoliose"
+      width="300px">
+    <h2>É possível corrigir a escoliose?</h2>
+    <p5> <!-- Quinto parágrafo -->
+      Sim, é possível corrigir essa má formação, mas o sucesso do tratamento depende de uma série de fatores, incluindo a gravidade da curvatura, a idade do paciente e a causa da escoliose. Em casos leves, a escoliose pode ser tratada com fisioterapia, exercícios de fortalecimento e correção postural.Porém em casos mais graves, pode ser necessário o uso de colete ortopédico ou cirurgia.O tratamento da escoliose é feito por uma equipe multidisciplinar, que inclui médicos, fisioterapeutas, ortopedistas e outros especialistas.O objetivo do tratamento é prevenir o agravamento da curvatura e melhorar a qualidade de vida do paciente.A escoliose é uma condição crônica, mas com o tratamento adequado, a maioria dos pacientes consegue ter uma vida normal e ativa.
+      <br>
+    </p5>
+      <button onclick="window.location.href='https://nav.dasa.com.br/blog/escoliose#'">Clique aqui</button><!-- Botão -->
+  </div>
+  <script src="script.js"></script> <!-- Script é o código JaVaScript -->
+</body>
+</html> 
